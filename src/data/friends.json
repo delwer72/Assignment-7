@@ -94,5 +94,53 @@
     "bio": "Lives next door. Helps with gardening tips.",
     "goal": 30,
     "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Park",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "daniel.park@example.com",
+    "days_since_contact": 20,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Project manager from last company.",
+    "goal": 21,
+    "next_due_date": "2026-05-05"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Brown",
+    "picture": "https://randomuser.me/api/portraits/women/30.jpg",
+    "email": "sophia.b@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["FRIEND"],
+    "bio": "Met at a conference. Loves startups.",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 11,
+    "name": "Chris Evans",
+    "picture": "https://randomuser.me/api/portraits/men/60.jpg",
+    "email": "chris.evans@example.com",
+    "days_since_contact": 70,
+    "status": "overdue",
+    "tags": ["GYM", "FRIEND"],
+    "bio": "Gym buddy who moved to another city.",
+    "goal": 30,
+    "next_due_date": "2026-03-20"
+  },
+  {
+    "id": 12,
+    "name": "Ava Garcia",
+    "picture": "https://randomuser.me/api/portraits/women/75.jpg",
+    "email": "ava.g@example.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["TRAVEL"],
+    "bio": "Travel partner from last summer trip.",
+    "goal": 15,
+    "next_due_date": "2026-04-30"
   }
 ]
